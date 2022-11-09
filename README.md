@@ -1,3 +1,14 @@
-# School Projects
+# Matrix Calculator
 
-Here lies the projects that I did during college, some of these might or might not work but have a look nonetheless.
+A matrix calculator with the max dimension of 5x5
+
+## Issues to note
+- Purely If-Else statements 
+- Might be full of bugs
+- Created by my noob self before
+
+## Things to work on
+- Proper use of functions
+- String manipulation
+- Loops
+- Improve design
