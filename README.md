@@ -15,3 +15,6 @@ A matrix calculator with the max dimension of 5x5
 - String manipulation
 - Loops
 - Improve design
+  
+Good luck reading the source code! 
+
